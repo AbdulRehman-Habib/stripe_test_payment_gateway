@@ -1,3 +1,16 @@
+# Dependencies
 vendor/
+
+# Composer files (optional if you don't want them on GitHub)
+composer.json
+composer.lock
+
+# Environment secrets
 .env
+
+# Logs
 *.log
+
+# OS files
+.DS_Store
+Thumbs.db
